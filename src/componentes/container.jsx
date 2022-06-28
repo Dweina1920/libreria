@@ -1,9 +1,15 @@
- import Header from "./Header";
+ import Header from "../componentes/Header";
+ import BookBox from "../componentes/BookBox";
 
  function Container(){
     return (
         <div className="container">
-            <Header/>
+           <Header/>
+           <div>
+           <BookBox/>
+           </div>
+       
+           
         </div>
     )
  }
