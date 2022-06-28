@@ -1,5 +1,5 @@
- import Header from "../componentes/Header";
- import BookBox from "../componentes/BookBox";
+ import Header from "./Header";
+ import BookBox from "./BookBox.jsx";
 
  function Container(){
     return (
