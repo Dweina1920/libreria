@@ -1,0 +1,194 @@
+{
+    "id":1,
+    "BookName":"Mujercitas",
+    "Edition":2021,
+    "Editorial":"Pluton",
+    "Author":"Luisa May Alcott",
+    "Genere":"Novela autobiografica",
+    "Description":"“Mujercitas” narra la historia de cuatro hermanas y una madre que superan los problemas cotidianos a fuerza de amor y comprensión mutua, mientras el padre está ausente en el frente bélico. Quizás para la época en que nos ha tocado en suerte vivir, peca un poco de idealista, pero vale la pena su lectura como terapia purificadora para la vorágine incansable de nuestro mundo. Con el tiempo la novela se ha convertido en un testimonio histórico de la transición entre la Guerra Civil norteamericana y la modernidad, además de ser un ejemplo para niñas y jóvenes de todo el mundo, sobre la individualidad, la tenacidad y la vocación de la mujer en la sociedad y la familia.",
+    "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjCZWGoXG8XswITZTFj6tb3r9fR_57cguQPgWVb9v-nI-yepC1RbvV_j-2QqAuHTgzSNM&usqp=CAU",
+    "ISBN":9788417928797
+     
+ }
+ 
+ 
+  {
+     "id":2,
+     "BookName":"Regina del Grito",
+     "Edition":"2020",
+     "Editorial":"Blackie Books",
+     "Author":"Desiree De Fez",
+     "Genere":"Novela autoayuda",
+     "Description":"Tengo miedo a caminar sola de noche por la calle. Miedo a no ser aceptada. Miedo a obsesionarme con el amor romántico. Miedo a desactivar los roles tradicionales en mis relaciones sentimentales y familiares. Miedo a desear. Miedo a mi propio cuerpo y al ajeno. Miedo a engordar y envejecer. Miedo a fracasar como madre, y a la presión social por la maternidad. Miedo a la pérdida. Miedo, en general, a no estar a la altura. Tengo mucho miedo. Todo el rato. Pero el cine de terror me ha ayudado desde que era niña: a la vez que alimentaba mis temores y generaba muchos nuevos, me ha brindado un lugar en el que cobijarme, en el que aprender.",
+     "Image":"https://images-na.ssl-images-amazon.com/images/I/81hAEl-gS5L.jpg",
+     "ISBN":" 8418187336"
+      
+  }
+ 
+  {
+     "id":3,
+     "BookName":"Ciencia politica de perspectiva de genero",
+     "Edition":"2014",
+     "Editorial":"Akal",
+     "Author":"Alba Alonso Álvarez, Marta Lois González",
+     "Genere":"Ciencias politicas",
+     "Description":"En los últimos años se ha producido un importante avance en las ciencias sociales, al incorporarse los denominados estudios de la mujer como un nuevo paradigma. El género, como categoría social, es una de las contribuciones teóricas más significativas del feminismo contemporáneo. En este contexto surge Ciencia política con perspectiva de género, un novedoso estudio colectivo pensado desde un planteamiento que integra la perspectiva de género en el centro de los principales debates y discusiones de la ciencia política. Sus autoras, un grupo de profesoras procedentes de diferentes campos de la ciencia política, han querido llenar este vacío y aunar esfuerzos para contribuir a enriquecer esta disciplina, que ha sido neutra respecto al género y no ha tenido en cuenta la incidencia de las desigualdades entre mujeres y hombres en su objeto de estudio. A lo largo del presente manual se afronta el papel de la mujer en temas claves tales como las instituciones políticas, los métodos de investigación en ciencia política, el sistema político español, el comportamiento político, los partidos y los movimientos sociales, las políticas públicas y su evaluación, las relaciones internacionales, la comunicación política y la teoría política stricto sensu. En definitiva, un amplio y rico marco de estudio, destinado a todos los lectores interesados en nuevos y necesarios enfoques de la ciencia política.",
+     "Image":"https://images-na.ssl-images-amazon.com/images/I/41uhQ7D6NtL._SX356_BO1,204,203,200_.jpg",
+     "ISBN":"8446039362"
+      
+  }
+ 
+  {
+     "id":4,
+     "BookName":"Sexo, genero y salud",
+     "Edition":"2013",
+     "Editorial":"Minerva ediciones",
+     "Author":"Sara Velasco",
+     "Genere":"Psicologia clinica",
+     "Description":"En este libro se desentierra el yacimiento de las teorías contextuales y de la subjetividad sobre la salud y la teoría feminista. En la intersección de ambos ejes ha nacido el enfoque de género en salud. Se propone el sistema sujeto/sexo/género que en interacción con el sistema bio/psico/social interpreta la vida y la salud según tres ámbitos: lo corporal biológico -por tanto los sexos-, lo social y vincular -los modelos y roles de género de los que procede la vulnerabilidad-, y también por lo psíquico, es decir, los significados subjetivos de la experiencia vivida. Se compromete en desarrollar dos métodos para aplicar este enfoque de género en salud: para planificar y programar y para la práctica clínica, cuyas señas principales son el modelo biopsicosocial, los efectos sobre la subjetividad y los determinantes de género. Por último realiza un análisis de género sobre de la situación de salud mental en España. Sara Velasco Arias es médica, psicoanalista y experta en salud y género. Ha trabajado en la asis-tencia médica, planificación familiar y clínica psicoanalítica, pero también en Salud Pública. Desde 1997 trabaja en el diseño, desarrollo, docencia y evaluación de programas innovadores de salud y género para el Instituto de la Mujer y para el Ministerio de Sanidad y Consumo. El presente es su séptimo libro. Los anteriores han tratado sobre el deseo en el embarazo y aborto, sobre la prevención del sida hetero-sexual, sobre relación sanitario/a y paciente, sobre atención biopsicosocial al malestar y salud mental de las mujeres y sobre métodos de género y salud.",
+     "Image":"https://images-na.ssl-images-amazon.com/images/I/31ZVFYsYBEL._SX354_BO1,204,203,200_.jpg",
+     "ISBN":"8488123698"
+      
+  }
+ 
+  {
+     "id":5,
+     "BookName":"Violeta",
+     "Edition":"2022",
+     "Editorial":"Plaza & Janes",
+     "Author":"Isabel Allende",
+     "Genere":"Novela historica",
+     "Description":"La épica y emocionante historia de una mujer cuya vida abarca los momentos históricos más relevantes del siglo XX.
+ 
+     Desde 1920 -con la llamada «gripe española»- hasta la pandemia de 2020, la vida de Violeta será mucho más que la historia de un siglo.
+     
+     Violeta viene al mundo un tormentoso día de 1920, siendo la primera niña de una familia de cinco bulliciosos hermanos. Desde el principio su vida estará marcada por acontecimientos extraordinarios, pues todavía se sienten las ondas expansivas de la Gran Guerra cuando la gripe española llega a las orillas de su país sudamericano natal, casi en el momento exacto de su nacimiento.
+     
+     Gracias a la clarividencia del padre, la familia saldrá indemne de esta crisis para darse de bruces con una nueva, cuando la Gran Depresión altera la elegante vida urbana que Violeta ha conocido hasta ahora. Su familia lo perderá todo y se verá obligada a retirarse a una región salvaje y remota del país. Allí Violeta alcanzará la mayoría de edad y tendrá su primer pretendiente...
+     
+     En una carta dirigida a una persona a la que ama por encima de todas las demás, Violeta rememora devastadores desengaños amorosos y romances apasionados, momentos de pobreza y también de prosperidad, pérdidas terribles e inmensas alegrías. Moldearán su vida algunos de los grandes sucesos de la historia: la lucha por los derechos de la mujer, el auge y caída de tiranos y, en última instancia, no una, sino dos pandemias.
+     
+     Vista con los ojos de una mujer poseedora de una pasión, una determinación y un sentido del humor inolvidables que la sostienen a lo largo de una vida turbulenta, Isabel Allende nos regala, una vez más, una historia épica furiosamente inspiradora y profundamente emotiva.",
+     "Image":"https://images-na.ssl-images-amazon.com/images/I/716GaLQav8S.jpg",
+     "ISBN":"9788401027475"
+      
+  }
+ 
+  {
+     "id":6,
+     "BookName":"Yo soy Malala",
+     "Edition":"1ra, 2021",
+     "Editorial":"Alianza",
+     "Author":"Malala Yousafzai",
+     "Genere":"Novela autobiografica",
+     "Description":"Cuando los talibanes tomaron el control del valle de Swat en Pakistán, una niña alzó su voz. Malala Yousafzai se negó a ser silenciada y luchó por su derecho a la educación. El martes 9 de octubre de 2012, con quince años de edad, estuvo a punto de pagar el gesto con su vida. Le dispararon en la cabeza a quemarropa mientras volvía a casa de la escuela en autobús, y pocos pensaron que fuera a sobrevivir. Sin embargo, la milagrosa recuperación de Malala la ha llevado en un extraordinario periplo desde un remoto valle en el norte de Pakistán hasta las Naciones Unidas en Nueva York. A los dieciséis años se ha convertido en un símbolo global de la protesta pacífica, y es la nominada más joven de la historia para el Premio Nobel de la Paz. " Yo soy Malala " es el excepcional relato de una familia desterrada por el terrorismo global, de la lucha por la educación de las niñas, de un padre que, él mismo propietario de una escuela, apoyó a su hija y la alentó a escribir y a ir al colegio, y de unos padres valientes que quieren a su hija por encima de todo en una sociedad que privilegia a los hijos varones. Yo soy Malala  nos hace creer en el poder de la voz de una persona para cambiar el mundo.",
+     "Image":"https://images-na.ssl-images-amazon.com/images/I/71ZOkm8vzwL.jpg",
+     "ISBN":"8420678880"
+      
+  }
+ 
+  {
+     "id":7,
+     "BookName":"mujercitas",
+     "Edition":"1ra, 2021",
+     "Editorial":"Pluton",
+     "Author":"Luisa May Alcott",
+     "Genere":"",
+     "Description":"",
+     "Image":"",
+     "ISBN":""
+      
+  }
+ 
+  {
+     "id":8,
+     "BookName":"mujercitas",
+     "Edition":"1ra, 2021",
+     "Editorial":"Pluton",
+     "Author":"Luisa May Alcott",
+     "Genere":"",
+     "Description":"",
+     "Image":"",
+     "ISBN":""
+      
+  }
+ 
+  {
+     "id":9,
+     "BookName":"mujercitas",
+     "Edition":"1ra, 2021",
+     "Editorial":"Pluton",
+     "Author":"Luisa May Alcott",
+     "Genere":"",
+     "Description":"",
+     "Image":"",
+     "ISBN":""
+      
+  }
+ 
+  {
+     "id":10,
+     "BookName":"mujercitas",
+     "Edition":"1ra, 2021",
+     "Editorial":"Pluton",
+     "Author":"Luisa May Alcott",
+     "Genere":"",
+     "Description":"",
+     "Image":"",
+     "ISBN":""
+      
+  }
+ 
+  {
+     "id":11,
+     "BookName":"mujercitas",
+     "Edition":"1ra, 2021",
+     "Editorial":"Pluton",
+     "Author":"Luisa May Alcott",
+     "Genere":"",
+     "Description":"",
+     "Image":"",
+     "ISBN":""
+      
+  }
+ 
+  {
+     "id":13,
+     "BookName":"mujercitas",
+     "Edition":"1ra, 2021",
+     "Editorial":"Pluton",
+     "Author":"Luisa May Alcott",
+     "Genere":"",
+     "Description":"",
+     "Image":"",
+     "ISBN":""
+      
+  }
+ 
+  {
+     "id":14,
+     "BookName":"mujercitas",
+     "Edition":"1ra, 2021",
+     "Editorial":"Pluton",
+     "Author":"Luisa May Alcott",
+     "Genere":"",
+     "Description":"",
+     "Image":"",
+     "ISBN":""
+      
+  }
+ 
+  {
+     "id":15,
+     "BookName":"mujercitas",
+     "Edition":"1ra, 2021",
+     "Editorial":"Pluton",
+     "Author":"Luisa May Alcott",
+     "Genere":"",
+     "Description":"",
+     "Image":"",
+     "ISBN":""
+      
+  }
+ 
+  
