@@ -140,6 +140,8 @@ margin-top: 5px;
     width: 90px;
     height: 120px;
     cursor: pointer;
+  }
 
-
+  .welcome{
+    margin-top: 500px;
   }

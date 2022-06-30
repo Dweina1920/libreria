@@ -1,7 +1,7 @@
- import Header from "./Header";
- import BookBox from "./BookBox.jsx";
+ import Header from "../componentes/Header";
+ import BookBox from "../componentes/BookBox.jsx";
 
- function Container(){
+ function Home(){
     return (
         <div className="container">
            <Header/>
@@ -14,4 +14,4 @@
     )
  }
  
-export default Container;
+export default Home;
