@@ -2,7 +2,7 @@
 function BookInfo(props){
     return(
         <div className="info-book">
-            <button className="title-book">{props.name}</button>
+            <p className="title-book">{props.name}</p>
             <p className="author-book">{props.author}</p>
         </div>
     )
