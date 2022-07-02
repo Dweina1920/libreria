@@ -3,7 +3,7 @@ import BookItem from "./BookItem";
 
 function BookBox() {
     const listBooks = books.violetBooks.map((book) => {
-        return (<BookItem key={book.id} name={book.bookname} author={book.author} image={book.image} />)
+        return (<BookItem key={book.id} name={book.BookName} author={book.Author} image={book.Image} />)
     }
     )
     return (
