@@ -5,6 +5,8 @@ import Home from '../pages/Home'
 import Welcome from '../pages/Welcome'
 import App from '../App'
 import Formulario from '../pages/Formulario'
+import Ingresa from '../pages/Ingresa'
+import Registrate from '../pages/Registrate'
 
 
 function Router() {
@@ -18,7 +20,8 @@ function Router() {
             <Route path='/' element={<App/>} />
             <Route path='/Welcome' element={<Welcome/>}/>
             <Route path='/Formulario' element={<Formulario/>}/>
-         
+            <Route path='/Ingresa' element={<Ingresa/>}/>
+            <Route path='/Registrate' element={<Registrate/>}/>
         </Routes>
     </BrowserRouter>
 )

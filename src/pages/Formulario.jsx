@@ -1,25 +1,26 @@
-
+import Header from "../componentes/Header";
 
 
 function Formulario() {
     return (
-        <div className="header-formulario">
-             <p className="header-logo">Violet Library</p>
-        <div className="header-right">
-            </div>
+        <div>
+        <Header/>
         
-            
         <div className="principal-box">
             
              <div className="little-box">
-                <p>porfavor complete el formulario para crear una targeta</p>
+                <p className="text-little">Porfavor complete el formulario para crear una targeta</p>
              </div>
 
-            <p>Titulo</p>
-            <div className="search-bar-1"></div>
-            <p>Imagen URL</p>
-            <div className="search-bar-2"></div>
 
+            <article className="form-box-1">
+                <p className="text">Titulo</p>
+                <div className="search-bar-1"></div>
+            </article>
+            <article>
+                <p className="text-img">Imagen URL</p>
+                <div className="search-bar-2"></div>
+            </article>
 
 
 
@@ -27,14 +28,15 @@ function Formulario() {
 
 
             <div>
-            <button className="buttons-purple"></button>
-            <button className="buttons-purple"></button>
+                
+            <button className="buttons-purple">Crear</button>
+            <button className="buttons-purple-2">Cancelar</button>
     
             </div>
 
         
             </div>
-    
+           
             )
 }
 
