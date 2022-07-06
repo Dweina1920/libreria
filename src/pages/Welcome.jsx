@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import Header from "../componentes/Header";
 import "../index.css";
-gitimport React from "react";
+import React from "react";
 
 
 function Welcome(){
