@@ -15,23 +15,19 @@ function Ingresa(){
 
         <article className="us-box">
             <p className="text-usuario">Usuario:</p>
-            <div className="usuario-box"></div>
+            <input className="usuario-box"></input>
         </article>
         <article >
-            <p className="text-image">Contraseña:</p>
-            <div className="usuario-box2"></div>
+            <p className="text-contraseña">Contraseña:</p>
+            <input className="usuario-box2"></input>
         </article>
 
             <button className="btn-ing">entra</button>
 
+  
 
 
-
-
-
-
-
-
+            
 </div>        
     )
 }
