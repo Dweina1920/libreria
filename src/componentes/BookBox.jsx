@@ -1,5 +1,6 @@
 import books from "../assets/data/violetbooks.json";
 import BookItem from "./BookItem";
+import React from "react"
 
 function BookBox() {
     const listBooks = books.violetBooks.map((book) => {
