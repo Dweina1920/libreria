@@ -17,7 +17,7 @@ function Router() {
         <BrowserRouter>
         <Routes>
             <Route path='/Home' element ={<Home/>}/>
-            <Route path='/' element={<App/>} />
+            <Route path='/' element={<Welcome/>} />
             <Route path='/Formulario' element={<Formulario/>}/>
             <Route path='/Ingresa' element={<Ingresa/>}/>
             <Route path='/Registrate' element={<Registrate/>}/>

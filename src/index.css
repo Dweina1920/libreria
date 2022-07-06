@@ -12,10 +12,6 @@ body{
   background-color:#e2f4dd;
 }
 
-body{
-  background-color:#e7f26f;
-
-}
 
 .header{
   background:#9CFF94;
@@ -399,4 +395,38 @@ cursor: pointer;
   position: absolute;
   border-color: #9CFF94;
   cursor: pointer;
+}
+
+/*Welcome*/
+
+.welcome{
+  margin-top: 200px;
+  margin-left: 425px;
+  width: 500px;
+  height: 500px;
+  padding-right: 50px;
+  }
+
+.title-welcome{
+  font-size: 40px;
+  font-family:'Dancing Script', cursive;
+  padding-left: 5px;
+}
+
+.button-welcome{
+  display: flex;
+  justify-content: center;
+  font-family:'Dancing Script', cursive;
+  width: 400px;
+  padding-right: 20px;
+  text-decoration: none;
+  font-size: 30px;
+  color: #dc00a1;
+}
+@media (max-width:500px){
+  .book-list{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
 }
