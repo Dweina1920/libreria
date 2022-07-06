@@ -1,8 +1,11 @@
+import { Link } from "react-router-dom";
+import React from "react";
+
 
 function BookInfo(props){
     return(
         <div className="info-book">
-            <p className="title-book">{props.name}</p>
+            <Link to={"/InfoLibro"} className="title-book">{props.name}</Link>
             <p className="author-book">{props.author}</p>
         </div>
     )

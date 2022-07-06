@@ -1,14 +1,15 @@
 import React from "react";
 import books from "../assets/data/violetbooks.json";
-import BookItem from "./BookItem";
+import InfoLibro from "../pages/InfoLibro";
 
-function BookBox() {
+function InfoLibroBox() {
     const listBook = books.violetBooks.map((book) => {
-        return (<BookItem key={book.id} name={book.BookName} author={book.Author} image={book.Image} />)
+        return (<InfoLibro key={book.id} name={book.BookName} author={book.Author} image={book.Image} />)
+
     }
     )
     return (
-        <div className="book-list">
+        <div>
             {listBook}
             
            
@@ -21,4 +22,4 @@ function BookBox() {
 
 
 
-export default BookBox;
+export default InfoLibroBox;

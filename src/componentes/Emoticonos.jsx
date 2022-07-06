@@ -1,3 +1,4 @@
+import React from "react";
 function Emoticonos(){
     return(
         <div className="botones-emoticonos">
