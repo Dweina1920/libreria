@@ -1,4 +1,4 @@
-
+import React from "react"
 function BookInfo(props){
     return(
         <div className="info-book">

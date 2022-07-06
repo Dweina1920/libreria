@@ -1,5 +1,6 @@
 import Emoticonos from "../componentes/Emoticonos";
 import BookInfo from "../componentes/BookInfo";
+import React from "react"
 
 
 function BookItem(props){
