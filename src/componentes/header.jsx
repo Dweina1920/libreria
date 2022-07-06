@@ -1,8 +1,6 @@
 import { Link } from "react-router-dom";
 import "../index";
-import Formulario from "../pages/Formulario";
-import Ingresa from "../pages/Ingresa";
-import Registrate from "../pages/Registrate"
+
 
 function Header() {
     return (

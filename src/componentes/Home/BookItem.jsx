@@ -1,20 +1,22 @@
-import Emoticonos from "../componentes/Emoticonos";
-import BookInfo from "../componentes/BookInfo";
+import Emoticonos from "../Emoticonos";
+
 import React from "react"
+import AuthorName from "./AuthorName";
+
 
 
 function BookItem(props){
     
     return(
-       
         <div className="container-book">
             <div className="big-box">
-                <img className="imagen-box" src={props.image} alt="imagen libro"></img>
+               
             </div>
 
             <div className="small-box">
                 <Emoticonos/>
-                <BookInfo name={props.name} author={props.author}/>
+               
+                <AuthorName show={props.show} titulo={props.titulo} autor={props.autor}/>
             </div>
         </div>
     )

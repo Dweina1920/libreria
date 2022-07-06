@@ -9,6 +9,7 @@ import Ingresa from '../pages/Ingresa'
 import Registrate from '../pages/Registrate'
 
 
+
 function Router() {
     
     
@@ -22,6 +23,8 @@ function Router() {
             <Route path='/Ingresa' element={<Ingresa/>}/>
             <Route path='/Registrate' element={<Registrate/>}/>
             <Route path='/Bienvenido' element={<Welcome/>}/>
+            
+           
          
         </Routes>
     </BrowserRouter>

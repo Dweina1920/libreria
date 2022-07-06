@@ -1,4 +1,4 @@
-import Header from "../componentes/Header";
+import Header from "../Componentes/Header";
 import React from "react"
 function Registrate(){
  return(
