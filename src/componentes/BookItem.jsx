@@ -8,7 +8,7 @@ function BookItem(props){
     return(
         <div className="container-book">
             <div className="big-box">
-              <ImageBook isbn={props.isbn}/>
+             <ImageBook isbn={props.isbn}/>
             </div>
 
             <div className="small-box">

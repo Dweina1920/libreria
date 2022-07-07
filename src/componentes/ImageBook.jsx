@@ -1,15 +1,43 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
+import axios from 'axios'
 
 function ImageBook({isbn}) {
 
-    const getImage = ()=>{
-        return false;
+   
+     const [image, setImage] = useState([])
+
+     const GetCover = (item)=>{
+        let cover= false
+        if(item.covers){
+            cover =  item.covers
+        }
+        return cover
+
     }
+    
+    let GetImage = ()=>{
+     
+     }
+   
 
 
-        if(getImage()){
+    useEffect(()=>{
+     
+       fetch(`https://openlibrary.org/isbn/${isbn}.json`).then(response => response.json())
+      .then(data => setImage(data))
+      
+    },[])
+
+
+
+
+   
+  
+
+
+        if(GetCover(image)){
             return (
-                <img width='100%' src="https://covers.openlibrary.org/b/id/10860835.jpg" alt={isbn}  />
+                <img width='100%' src={`https://covers.openlibrary.org/b/id/${GetCover(image)}.jpg`} alt={isbn}  />
             )
         }
 

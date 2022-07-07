@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import BookItem from './BookItem'
+//import books from '../assets/data/violetbooks.json'
 import axios from 'axios'
 
 
@@ -10,7 +11,9 @@ function ListOfBooks(){
      axios.get("https://sheetlabs.com/MELQ/catalog")
         .then((res) => {
             setBooksApi(res.data)
-        }) 
+        })
+        
+        
     },[])
 
     return(
