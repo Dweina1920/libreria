@@ -74,13 +74,12 @@ background-color: #9CFF94;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 15px;
-   
-   
- 
-  }
-  .container{
     cursor: pointer;
   }
+   
+ 
+  
+
 
   .container-book{
 
