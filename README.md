@@ -9,7 +9,7 @@ Sobre el Proyecto 🔥
 
 "Violet Librery es una App basada en la necesidad de organizar virtualmente los libros de La Ciba; mediante un catálogo interactivo en el cual se dispone de los datos principales de cada libro y asi poder encontrar temas de interés en relación al feminismo y el desarrollo, físico, social, emocional e intelectual de las personas que visiten la  colección; asi mismo es un sitio donde el usuario podrá participar activamente  contribuyendo en la comunidad con literatura de interés  para el empoderamiento de la mujer."
 
-"Violet Library es una iniciativa de un grupo de 3 coders participantes  de un programa que patrocina La Ciba  cojuntamenete con la escuela Factoria5 que trabajan de la mano para la insersión laboral de la mujer en el sector tecnológico."
+"Violet Library es una iniciativa de un grupo de 3 coders participantes de un programa patrocinado por La Ciba conjuntamente con la escuela Factoria5 que trabajan de la mano para la insersión laboral de la mujer en el sector tecnológico."
 
 
 ![alt text](https://revistamirall.com/wp-content/uploads/2022/03/Aula-Magna-La-Ciba-696x463.jpg)
