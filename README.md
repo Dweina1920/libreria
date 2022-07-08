@@ -1,7 +1,7 @@
 🌸Violet Library🌸
 Biblioteca De La Ciba, tus libros! 📚
 
-![alt text](https://i.pinimg.com/originals/a3/4a/c0/a34ac0147df04483086cf65d7fc12cd2.gif)
+![alt text](https://revistamirall.com/wp-content/uploads/2022/03/Aula-Magna-La-Ciba-696x463.jpg)
 
 
 Sobre el Proyecto 🔥
