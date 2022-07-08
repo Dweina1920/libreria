@@ -156,6 +156,7 @@ Colaboradoras:
 Bravo Hermosas!!! 💃🏻💃🏻💃🏻 Muchas gracias:
 
 DINA YAMANI, LAIA AÑÓ FERNANDEZ Y NADIA ALEJANDRA BADOS 
+ A nuestro formador CARLOS PINILLA, GRACIAS!!!
 
 Sobre Coders La Ciba-F5
 
