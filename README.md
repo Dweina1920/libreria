@@ -17,19 +17,19 @@ Sobre el Proyecto 🔥
 
 Tabla de Contenidos
 
-Introducción 
-Sobre el proyecto
-Tabla de contenidos
-Propósito del proyecto
-Versión
-Tecnologías
-Entorno de desarrollo
-Estructura de archivo
-Licencia
-Contribuyendo
-Colaboradores
-Sobre Coders La Ciba-F5 
-
+*Introducción 
+*Sobre el proyecto
+*Tabla de contenidos
+*Propósito del proyecto
+*Versión
+*Tecnologías
+*Entorno de desarrollo
+*Estructura de archivo
+*Licencia
+*Contribuyendo
+*Colaboradores
+*Sobre Coders La Ciba-F5 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Propósito del Proyecto 💥
 
 "Identificamos la necesidad especial de organizar mediante una app los libros de la Ciba para asi poder tener acceso a su base de datos de una manera mas visual y rápida  por medio de su clasificación por categorias mostrando los datos de los libros; sus respectivos autores, identificando el año de edición y casa editorial; la idea es hacer de la busqueda de los libros algo más interactivo en un entorno dinámico en el que se puede tener acceso a cada uno de los libros.
