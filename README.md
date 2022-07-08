@@ -1,70 +1,165 @@
-# Getting Started with Create React App
+🌸Violet Library🌸
+Biblioteca De La Ciba, tus libros! 📚
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![alt text](https://i.pinimg.com/originals/a3/4a/c0/a34ac0147df04483086cf65d7fc12cd2.gif)
 
-## Available Scripts
 
-In the project directory, you can run:
+Sobre el Proyecto 🔥
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+"Violet Librery es una App basada en la necesidad de organizar virtualmente los libros de La Ciba; mediante un catálogo interactivo en el cual se dispone de los datos principales de cada libro y asi poder encontrar temas de interés en relación al feminismo y el desarrollo, físico, social, emocional e intelectual de las personas que visiten la  colección; asi mismo es un sitio donde el usuario podrá participar activamente  contribuyendo en la comunidad con literatura de interés  para el empoderamiento de la mujer."
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+"Violet Library es una iniciativa de un grupo de 3 coders participantes  de un programa que patrocina La Ciba  cojuntamenete con la escuela Factoria5 que trabajan de la mano para la insersión laboral de la mujer en el sector tecnológico."
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Tabla de Contenidos
 
-### `npm run build`
+Introducción 
+Sobre el proyecto
+Tabla de contenidos
+Propósito del proyecto
+Versión
+Tecnologías
+Entorno de desarrollo
+Estructura de archivo
+Licencia
+Contribuyendo
+Colaboradores
+Sobre Coders La Ciba-F5 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Propósito del Proyecto 💥
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+"Identificamos la necesidad especial de organizar mediante una app los libros de la Ciba para asi poder tener acceso a su base de datos de una manera mas visual y rápida  por medio de su clasificación por categorias mostrando los datos de los libros; sus respectivos autores, identificando el año de edición y casa editorial; la idea es hacer de la busqueda de los libros algo más interactivo en un entorno dinámico en el que se puede tener acceso a cada uno de los libros.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ El propósito es poder nutrir la colección de libros con el objetivo final de difundir el conocimiento  a la población referente al feminismo y su defensa.
+ 
+  El procesos  se puede realizar mediante un formulario de registro que se encuentra en una parte visible de la pagina web. La App también dispone de un apartado para agregar libros a la plataforma  y así contribuir activamente en el crecimiento de la biblioteca con el objetivo de incrementar no solamente la cantidad de libros sino también de generar en la población el interés por leer y apreciar un recurso tan valioso en la comunidad como lo es la biblioteca de la Ciba.
 
-### `npm run eject`
+La sociedad se encuentra en un momento en el que es muy importante que se sepa del dessrrollo de la mujer, los logros que ha tenido através de la historia, y los mucho que puede llegra a realizar, y esto literalmente al alcance de las manos de todas las personas sin excepción, con un click se podra tener acceso a esta hermosa colección desde cualquier parte del mundo de manera gratuita."
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Versión 🌟
+Primera
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Violet Library está listo para que nuestro primer grupo de probadores beta pruebe el intercambio descentralizado de próxima generación para android y Mac.
 
-## Learn More
+Actualmente, Violet Library todavía se encuentra en versión beta preliminar v0.1.0-beta.xx
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Lanzamos la versión del software de producción difundiendolo en github.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+También usamos los mensajes de confirmación de git para generar el registro de cambios del proyecto.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+Tecnologías 🚀
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+React.js - React 16✨, React Router 5
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Java script
 
-### Advanced Configuration
+Node
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Styles - Material-UI Theme (customizable)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Entorno de Desarrollo
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+🌸Violet Library🌸 se ejecuta en https://covers.openlibrary.org/b/id/10860835.jpg y se crea a partir de la rama maestra, nuestra rama de producción y se crea a partir de la rama de desarrollo utilizada para el desarrollo, la integración y la prueba de nuevas funciones.
+
+Inicio Rápido
+Clona este repositorio usando git clone https://github.com/Dweina1920/libreria.git
+Moverse al directorio apropiado: cd <YOUR_PROJECT_NAME>
+Corre Node para instalar dependencias. En este punto puedes correr NPM start para ver la aplicación de React, ejemplo en http://localhost:3000
+
+Empezando
+
+Instalar Git
+https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git
+
+Instalar Node
+1. Entrar en https://nodejs.org/es/download/ y descargar el instalador de Node.js en el sistema operativo deseado. Podemos elegir entre Windows, Mac y Linux.
+
+
+2. Ejecutar el instalador que acabamos de descargar. Simplemente debemos avanzar en el proceso de instalación.
+
+
+3. Una vez finalizado el proceso de instalación, podemos comprobar fácilmente si se nos ha instalado correctamente. Para ello, vamos al intérprete de comandos de nuestro ordenador (en Windows, por ejemplo, escribir “cmd” en la barra de búsqueda y abrir la aplicación de “Símbolo del sistema”).
+
+
+
+4. En la ventana de comandos, escribir node -v y pulsar la tecla Enter. Nos debería aparecer la versión que tenemos instalada de Node.js (en mi caso la versión 12.19.0). Para comprobar que se nos ha instalado también NPM, escribiremos npm -v y pulsaremos de nuevo Enter. Nos debería aparecer también en este caso la versión del Node Package Manager (en mi caso la versión 6.14.8).
+
+Instalar React
+
+Actualizar NPM, el gestor de paquetes de node, para bajarnos las dependencias más actuales:
+
+npm install -g npm@latest
+Paso 3. Borrar la cache de NPM:
+
+npm cache clean --force
+Paso 4. Instalar Create React App, que es un interprete de consola(CLI) que nos va a permitir instalar React facilmente e incluirá webpack para la compilación y minificación del proyecto, un live reload, una estructura básica para los proyectos de ReactJS, etc, veamos como instalar este paquete:
+
+npm install -g create-react-app
+Ahora ya tenemos instalado «create react app» y ya podemos generar un nuevo proyecto de React.js
+
+Para generar un nuevo proyecto de React.js y finalmente instalarlo, entraremos al directorio donde queramos generar el proyecto de reactjs y ejecutamos este comando:
+
+create-react-app NombreDeMiProyecto
+Ahora entraremos al directorio de nuestro proyecto y lanzaremos el servidor local de pruebas para React:
+
+cd NombreDeMiProyecto
+npm start
+Puedes comprobar la versión de React que tienes dentro del fichero package.json.
+
+Ahora tendremos disponible la webapp de React 16 en http://localhost:3000/ y veremos nuestro proyecto corriendo, con la página de bienvenida por defecto.
+
+Instalación
+
+Clonar el repositorio
+
+git clone https://github.com/your_username_/Project-Name.git
+
+Instalar paquetes de react
+
+NPM install
+
+
+Corre el proyecto
+
+
+Estructura de Archivo
+Esto podría ayudar al lector a comprender la organización dentro del proyecto, por ejemplo:
+Licencia
+MIT © EOS Costa Rica
+
+Contribuyendo
+Si desea hacer una contribución, siga los siguientes pasos:
+
+Crear Fork del proyecto  (https://aprendegit.com/fork-de-repositorios-para-que-sirve/)
+Crea el Feature Branch (git checkout -b feature/)
+Commit a los cambios (git commit -m '<type>(<scope>): <subject>')
+Push a la rama de trabajo (git push origin feature/)
+Abra un Pull Request
+
+
+Si encuentra un error, informe los errores grandes y pequeños abriendo un issue <enlace a la sección del proyecto de emisión>
+
+Colaboradoras:
+
+Bravo Hermosas!!! 💃🏻💃🏻💃🏻
+
+DINA YAMANI, LAIA AÑÓ FERNANDEZ Y NADIA ALEJANDRA BADOS 
+
+Sobre Coders La Ciba-F5
+
+Somos un grupo de estudiantes de una formación de fullstack de 850 horas. Apasionadas por el aprendizaje del código, dispuestas a realizar proyectos de práctica que nos permitan aprender nuevas tecnologías.
+
+¡Juntas Rompemos los códigos!
+
+![alt text](https://i.pinimg.com/originals/ba/55/f9/ba55f9e644e039c79c978dbaf5e7285d.gif)
+![alt text](https://pbs.twimg.com/profile_images/1543892567904980992/KatY95Hn_400x400.jpg)
+![alt text](https://laciba.gramenet.cat/index.php?id=26341)
