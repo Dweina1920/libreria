@@ -14,14 +14,21 @@ function Formulario() {
 
 
             <article className="form-box-1">
-                <p className="text">Titulo</p>
-                <div className="search-bar-1"></div>
+                <p className="text">Titulo:</p>
+                <input className="search-bar-1"></input>
             </article>
             <article>
-                <p className="text-img">Imagen URL</p>
-                <div className="search-bar-2"></div>
+                <p className="text-imgn">Imagen URL:</p>
+                <input className="search-bar-2"></input>
             </article>
-
+            <article>
+                <p className="text-imgn">Autor:</p>
+                <input className="search-bar-3"></input>
+            </article>
+            <article>
+                <p className="text-gener">Genero:</p>
+                <input className="search-bar-4"></input>
+            </article>
 
 
             </div> 

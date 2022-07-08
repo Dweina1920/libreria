@@ -18,10 +18,11 @@ function Router() {
         <Routes>
             <Route path='/Home' element ={<Home/>}/>
             <Route path='/' element={<App/>} />
-            <Route path='/Welcome' element={<Welcome/>}/>
             <Route path='/Formulario' element={<Formulario/>}/>
             <Route path='/Ingresa' element={<Ingresa/>}/>
             <Route path='/Registrate' element={<Registrate/>}/>
+            <Route path='/Bienvenido' element={<Welcome/>}/>
+         
         </Routes>
     </BrowserRouter>
 )

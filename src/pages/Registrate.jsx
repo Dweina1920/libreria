@@ -15,19 +15,19 @@ function Registrate(){
     
         <article>
             <p className="text-name">Nombre Usuario:</p>
-            <div className="name-box-"></div>
+            <input className="name-box-"></input>
       </article>
       <article>
             <p className="text-email">Correo electronico / Numero telefónico:</p>
-            <div className="email-box-"></div>
+            <input className="email-box-"></input>
       </article>
       <article>
             <p className="text-pasword">Contraseña:</p>
-            <div className="pasword-box-"></div>
+            <input className="pasword-box-"></input>
       </article>
       <article>
             <p className="text-reafirm">Porfavor repita la Contraseña:</p>
-            <div className="reafirm-box-"></div>
+            <input className="reafirm-box-"></input>
       </article>
     
         <div>

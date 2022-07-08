@@ -10,7 +10,10 @@ function Emoticonos(){
                         <button className="button-book">&#128221;</button>
                         <button className="button-book">🗑️</button>
                     
+                 
+                 
                     </div>
+                    <script></script>
         </div>
     )
 }
