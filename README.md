@@ -57,6 +57,7 @@ También usamos los mensajes de confirmación de git para generar el registro de
 
 Tecnologías 🚀
 
+HTML, CSS
 
 React.js - React 16✨, React Router 5
 
@@ -65,6 +66,9 @@ Java script
 Node
 
 Styles - Material-UI Theme (customizable)
+
+Json Server
+
 
 
 Entorno de Desarrollo
