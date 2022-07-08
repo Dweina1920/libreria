@@ -12,6 +12,9 @@ Sobre el Proyecto 🔥
 "Violet Library es una iniciativa de un grupo de 3 coders participantes  de un programa que patrocina La Ciba  cojuntamenete con la escuela Factoria5 que trabajan de la mano para la insersión laboral de la mujer en el sector tecnológico."
 
 
+![alt text](https://laciba.gramenet.cat/index.php?id=26341)
+
+
 Tabla de Contenidos
 
 Introducción 
@@ -150,7 +153,7 @@ Si encuentra un error, informe los errores grandes y pequeños abriendo un issue
 
 Colaboradoras:
 
-Bravo Hermosas!!! 💃🏻💃🏻💃🏻
+Bravo Hermosas!!! 💃🏻💃🏻💃🏻 Muchas gracias:
 
 DINA YAMANI, LAIA AÑÓ FERNANDEZ Y NADIA ALEJANDRA BADOS 
 
@@ -161,5 +164,7 @@ Somos un grupo de estudiantes de una formación de fullstack de 850 horas. Apasi
 ¡Juntas Rompemos los códigos!
 
 ![alt text](https://i.pinimg.com/originals/ba/55/f9/ba55f9e644e039c79c978dbaf5e7285d.gif)
+ 
 ![alt text](https://pbs.twimg.com/profile_images/1543892567904980992/KatY95Hn_400x400.jpg)
-![alt text](https://laciba.gramenet.cat/index.php?id=26341)
+ 
+![alt text](https://laciba.gramenet.cat/typo3conf/ext/theme_ciba/Resources/Public/images/ciba-logo.png)
