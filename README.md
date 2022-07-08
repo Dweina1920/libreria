@@ -1,7 +1,7 @@
 🌸Violet Library🌸
 Biblioteca De La Ciba, tus libros! 📚
 
-![alt text](https://revistamirall.com/wp-content/uploads/2022/03/Aula-Magna-La-Ciba-696x463.jpg)
+![alt text]https://i.pinimg.com/originals/a3/4a/c0/a34ac0147df04483086cf65d7fc12cd2.gif
 
 
 Sobre el Proyecto 🔥
@@ -12,7 +12,7 @@ Sobre el Proyecto 🔥
 "Violet Library es una iniciativa de un grupo de 3 coders participantes  de un programa que patrocina La Ciba  cojuntamenete con la escuela Factoria5 que trabajan de la mano para la insersión laboral de la mujer en el sector tecnológico."
 
 
-![alt text](https://laciba.gramenet.cat/index.php?id=26341)
+![alt text](https://revistamirall.com/wp-content/uploads/2022/03/Aula-Magna-La-Ciba-696x463.jpg)
 
 
 Tabla de Contenidos
